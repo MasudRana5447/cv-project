@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #eee #EEE;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: #E4F9F5;
+    margin: auto;
+    padding: 20px;
+
+}
+.profile-imge{
+    width: 100px;
+    border-radius:90px;
+    border: 1px solid white;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 20px; 
+}
+h1, h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.header-cobtact{
+    float: right;
+    padding: 30px;
+}
+.header-cobtact a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.header-cobtact a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+
+}
+.personal-section{
+
+}
+.content{
+ margin-bottom: 30px;
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+.right-div{
+    width: 70%;
+    float: right;
+
+}
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin:  auto;
+}
+.work-section{
+    margin: 15px;
+}
+.key-skill{
+    margin: 15px;
+}
+.edcation{
+    margin: 15px;
+}
+.lus{
+    text-decoration: none;
+}
+.lus:hover{
+    color:green;
+    text-decoration: underline;
+
+}
+/*--------------------
+education sections start
+--------------------*/
+.eud-template-left{
+    float: left;
+    width: 45%;
+
+}
+.eud-template-right{
+    float: right;
+    width: 40%;
+
+}
+.honors{
+    margin: 15px;
+}
+.reference{
+    margin: 15px;
+}
+.refe-template-right{
+    float: right;
+    width: 45%;
+}
+.refe-template-left{
+    float: left;
+    width: 45%;
+}
+.bottom-contener{
+    text-align: center;
+    background-color: black;
+    color: #E4F9F5;
+    padding: 9px;
+    
+}
+.bottom-contener a{
+    text-decoration: none;
+    color: #E4F9F5;
+    margin: 20px;
+}
